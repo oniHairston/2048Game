@@ -11,7 +11,7 @@ A desktop version of the classic 2048 puzzle game, built with Python and tkinter
 - Win and Game-over detection
 - Press Q to quit
 
-## How to win
+## How to Play
 1. Install Python 3
 2. Download or clone this repo
 3. Run:
