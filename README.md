@@ -2,6 +2,7 @@
 
 A desktop version of the classic 2048 puzzle game, built with Python and tkinter.
 
+<img width="681" height="656" alt="2048PyGame" src="https://github.com/user-attachments/assets/ff1728b1-211c-4a9c-a4b6-f5235975fcc5" />
 
 
 ## Features 
