@@ -1,6 +1,6 @@
 # 2048 Game
 
-A desktop version of the classic 2048 puzzle game, built with Python and tkinter.
+A desktop version of the classic 2048 puzzle game, built with Python and tkinter!
 
 <img width="681" height="656" alt="2048PyGame" src="https://github.com/user-attachments/assets/ff1728b1-211c-4a9c-a4b6-f5235975fcc5" />
 
@@ -21,7 +21,7 @@ A desktop version of the classic 2048 puzzle game, built with Python and tkinter
 python gui.py
 '''
 
-No extra libraries needed, since tkinter comes with Python.
+No extra libraries needed, tkinter comes with Python!
 
 ## How it works
 The game logic (`logic.py`) is separate from the display (`gui.py`).
@@ -33,6 +33,7 @@ flipping it back.
 - Separating game logic from the GUI
 - Working with 2D lists
 - Handling keyboard events in tkinter
+- Learning more about the different libraries within Python
 
 ## Future improvements
 - Best score that saves between sessions
